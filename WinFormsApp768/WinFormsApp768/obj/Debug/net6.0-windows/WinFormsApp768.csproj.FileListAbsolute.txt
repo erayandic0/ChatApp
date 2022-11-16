@@ -1,0 +1,17 @@
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\WinFormsApp768.csproj.AssemblyReference.cache
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\WinFormsApp768.Form1.resources
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\WinFormsApp768.csproj.GenerateResource.cache
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\WinFormsApp768.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\WinFormsApp768.AssemblyInfoInputs.cache
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\WinFormsApp768.AssemblyInfo.cs
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\WinFormsApp768.csproj.CoreCompileInputs.cache
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\bin\Debug\net6.0-windows\WinFormsApp768.exe
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\bin\Debug\net6.0-windows\WinFormsApp768.deps.json
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\bin\Debug\net6.0-windows\WinFormsApp768.runtimeconfig.json
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\bin\Debug\net6.0-windows\WinFormsApp768.dll
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\bin\Debug\net6.0-windows\WinFormsApp768.pdb
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\WinFormsApp768.dll
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\refint\WinFormsApp768.dll
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\WinFormsApp768.pdb
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\WinFormsApp768.genruntimeconfig.cache
+C:\Users\90530\source\repos\WinFormsApp768\WinFormsApp768\obj\Debug\net6.0-windows\ref\WinFormsApp768.dll
